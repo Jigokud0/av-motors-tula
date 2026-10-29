@@ -1,0 +1,47 @@
+{
+  "business": "Ав-моторс, Тула",
+  "source": "https://yandex.ru/maps/org/244329652934/",
+  "checkedAt": "2026-10-29",
+  "photos": [
+    {
+      "local": "public/images/service-1.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18100231/2a0000019febc891de922c71b446a2e15bcb/XXL_height"
+    },
+    {
+      "local": "public/images/service-2.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/20980815/2a0000019febc83c62f94572c72047c56f94/XXL_height"
+    },
+    {
+      "local": "public/images/service-3.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/20009069/2a0000019febc926af185224b49b69d8c17e/XXL_height"
+    },
+    {
+      "local": "public/images/service-4.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16413163/2a0000019febc7bf9dd63f7e5eeeece35cf9/XXL_height"
+    },
+    {
+      "local": "public/images/service-5.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/19854598/2a0000019febc76f4113afac010da39d7c34/XXL_height"
+    },
+    {
+      "local": "public/images/service-6.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/20336841/2a0000019febc240cfa6d7536d1cf1a9ed3c/XXL_height"
+    },
+    {
+      "local": "public/images/service-7.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18384802/2a0000019ac101b274b380f37847bf6e8881/XXL_height"
+    },
+    {
+      "local": "public/images/service-8.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18150755/2a0000019ac66154e2f81f399e72e5e87b80/XXL_height"
+    },
+    {
+      "local": "public/images/service-9.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/18376122/2a0000019ac92e0b1bb963b662fd730e4b47/XXL_height"
+    },
+    {
+      "local": "public/images/service-10.webp",
+      "source": "https://avatars.mds.yandex.net/get-altay/16899665/2a0000019ac92e047edcb76e0e6481dc141d/XXL_height"
+    }
+  ]
+}
